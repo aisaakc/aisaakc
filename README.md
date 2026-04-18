@@ -6,7 +6,7 @@
 
 💡 &nbsp;Técnico Superior Universitario en Informática enfocado en soluciones de IT y desarrollo de software.\
 🏢 &nbsp;Actualmente me desempeño como **IT Support Technician** en el Instituto Universitario Jesús Obrero (IUJO).\
-🐧 &nbsp;Power user de **Linux** (Arch & Fedora) y entusiasta de la personalización de entornos con **Hyprland**.\
+🐧 &nbsp;Power user de **Linux** (Arch) y entusiasta de la personalización de entornos con **Hyprland**.\
 🛠️ &nbsp;Desarrollando proyectos personales con **Next.js**, **Astro** y **Django**.\
 💬 &nbsp;Escríbeme para hablar de hardware (Ryzen/RTX), optimización de sistemas o desarrollo web.
 
@@ -29,7 +29,6 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-05122A?style=flat&logo=arch-linux&logoColor=1793D1)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim&logoColor=57A143)&nbsp;
 ![Pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;
 ![Bun](https://img.shields.io/badge/-bun-05122A?style=flat&logo=bun)
 
