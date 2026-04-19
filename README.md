@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
-<a href="https://linkedin.com/in/aisaakc"><img src="https://img.shields.io/badge/-Isaac%20Cattoni-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/isaac-cattoni/"><img src="https://img.shields.io/badge/-Isaac%20Cattoni-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:isaacattonibarca14@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
